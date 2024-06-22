@@ -6,4 +6,4 @@
   - [Email](mailto:poorvaja.sathasivam@outlook.com)
   - [LinkedIn](https://www.linkedin.com/in/poorvaja-satha-sivam/)
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am a hip hop dancer and love to groove to beats in my free time!
+- ⚡ Fun fact: I am a hip hop dancer!
