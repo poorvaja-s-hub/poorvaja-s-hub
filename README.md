@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/hello.webp" alt="Hello there" width="300" height="300">
+    <img src="/assets/hello.webp" alt="Hello there">
   <h1> I'm Poorvaja!</h1>
 </div>
 
